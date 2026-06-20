@@ -3,7 +3,7 @@ body {
 }
 
 .grid-3-cols {
-    color: red;
+    /* color: red; */
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
